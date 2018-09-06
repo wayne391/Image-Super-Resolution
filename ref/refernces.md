@@ -28,8 +28,3 @@ https://github.com/LimBee/NTIRE2017/issues/25
 https://discuss.pytorch.org/t/how-to-keep-the-shape-of-input-and-output-same-when-dilation-conv/14338
 
 
-todolist
-1. model numRDB動態決定
-2. 創建Dataset的script (給高清，各種低清)
-3. 搞懂denseNet
-4. single image testing
