@@ -27,4 +27,6 @@ https://github.com/LimBee/NTIRE2017/issues/25
 #* pytorch padding issue
 https://discuss.pytorch.org/t/how-to-keep-the-shape-of-input-and-output-same-when-dilation-conv/14338
 
-
+* self ensemble:
+https://arxiv.org/pdf/1707.02921.pdf
+http://www.vision.ee.ethz.ch/~timofter/publications/Timofte-CVPR-2016.pdf
