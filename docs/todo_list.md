@@ -1,7 +1,10 @@
-* automate creating number of RDB
-* upsample by LANCZOS
-* single image
 * script for creating datsets
+* patch testing
+
 -------
-* poly DB
+* single image
 * video
+
+------
+new archi
+* poly DB
