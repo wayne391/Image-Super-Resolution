@@ -8,3 +8,6 @@
 ------
 new archi
 * poly DB
+
+------
+* https://arxiv.org/pdf/1807.02758.pdf
