@@ -36,3 +36,8 @@ https://discuss.pytorch.org/t/how-to-keep-the-shape-of-input-and-output-same-whe
 
 * NOTRE 2018, SISR: Methods and Results
 http://www.vision.ee.ethz.ch/~timofter/publications/NTIRE2018_SR_report_CVPRW-2018.pdf
+
+
+## ADAM with learning rate decay
+https://github.com/XifengGuo/CapsNet-Keras/issues/9
+https://www.reddit.com/r/MachineLearning/comments/5slcyi/d_mixing_learning_rate_decay_and_adam_is_it/
