@@ -1,5 +1,6 @@
-# Image Super Resolution
-A simplified Pytorch implementation of **RDN** and **RCAN**
+# 2018_Deep_Learning_HW-Image Super Resolution
+
+A simplified PyTorch implementation of **RDN** and **RCAN**
 * [RDN](https://arxiv.org/pdf/1802.08797.pdf): Residual Dense Network for Image Super-Resolution
 * [RCAN](https://arxiv.org/pdf/1807.02758.pdf): Image Super-Resolution Using Very Deep Residual Channel Attention Networks
 
